@@ -1,0 +1,3 @@
+fsl_lpuart.h:606:23:LPUART_ReadByte	16	static
+Interrupcoes.c:41:6:LPUART0_IRQHandler	32	static
+Interrupcoes.c:102:6:PORTB_PORTC_PORTD_PORTE_IRQHandler	16	static

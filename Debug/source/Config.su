@@ -1,0 +1,12 @@
+fsl_gpio.h:223:24:GPIO_PinRead	16	static
+fsl_gpio.h:455:20:FGPIO_PinWrite	32	static
+Config.c:11:6:iniciaPerifericos	8	static
+Config.c:17:6:inicializaI2c	24	static
+Config.c:33:6:I2cWriteByte	48	static
+Config.c:56:9:I2cReadByte	352	static
+Config.c:83:6:I2cWritePageBytes	352	static
+Config.c:105:6:I2cReadPageBytes	352	static
+Config.c:127:6:Ds1_GetVal	8	static
+Config.c:128:6:Ds2_GetVal	8	static
+Config.c:129:6:Ds3_GetVal	8	static
+Config.c:130:6:Ds4_GetVal	8	static
